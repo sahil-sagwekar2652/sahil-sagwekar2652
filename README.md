@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: discord- saladmama2652#0839
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
