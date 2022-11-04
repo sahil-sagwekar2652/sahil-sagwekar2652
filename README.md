@@ -2,6 +2,10 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: discord- saladmama2652#0839
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![When your IDE keeps giving suggestions......](https://ytcards.demolab.com/?id=6lmaT9_k6qY&title=When+your+IDE+keeps+giving+suggestions......&lang=en&timestamp=1648913745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "When your IDE keeps giving suggestions......")](https://www.youtube.com/watch?v=6lmaT9_k6qY)
 [![My KD is 0.1 in CODM](https://ytcards.demolab.com/?id=Kk4pdNz6NPg&title=My+KD+is+0.1+in+CODM&lang=en&timestamp=1615874536&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "My KD is 0.1 in CODM")](https://www.youtube.com/watch?v=Kk4pdNz6NPg)
