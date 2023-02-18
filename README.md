@@ -5,6 +5,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting your coding journey might not be as hard as you think…](https://sagwekarsahil2652.hashnode.dev/coding-is-easy)
+- [KWoC 2022 report blog](https://sagwekarsahil2652.hashnode.dev/kwoc-2022-report-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
