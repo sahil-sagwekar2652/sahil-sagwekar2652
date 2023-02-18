@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sahil
 - 🌱 I’m currently learning Data Science and Web Dev
-- 📫 How to reach me: Twitter- @sagwekar_sahil
 
 
 # Blog posts
@@ -13,6 +12,9 @@
 # YouTube
 [![When your IDE keeps giving suggestions......](https://ytcards.demolab.com/?id=6lmaT9_k6qY&title=When+your+IDE+keeps+giving+suggestions......&lang=en&timestamp=1648913745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "When your IDE keeps giving suggestions......")](https://www.youtube.com/watch?v=6lmaT9_k6qY)
 <!-- END YOUTUBE-CARDS -->
+
+# Socials
+<a href="https://www.linkedin.com/in/sahil-sagwekar-0b955b223/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 [![@saladmama2652's Holopin board](https://holopin.io/api/user/board?user=saladmama2652)](https://holopin.io/@saladmama2652)
