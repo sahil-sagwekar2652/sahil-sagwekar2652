@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saladmama2652
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: discord- saladmama2652#0839
+- 👋 Hi, I’m Sahil
+- 🌱 I’m currently learning Data Science and Web Dev
+- 📫 How to reach me: Twitter- @sagwekar_sahil
 
 
 
