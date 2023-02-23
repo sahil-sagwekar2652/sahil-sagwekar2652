@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Sahil
+<h1 align="center">Hi There 👋, I'm Sahil</h1>
+<h3 align="center">Developer & FOSS Advocate</h3>
+<br>
+
 - 🌱 I’m currently learning Data Science and Web Dev
+- Let's talk, drop me a DM on Twitter!
 
 
 # Blog posts
