@@ -1,4 +1,5 @@
-<h1 align="center">Hi There 👋, I'm Sahil</h1>
+<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+<!-- <h1 align="center">Hi There 👋, I'm Sahil</h1> -->
 <h3 align="center">Developer & FOSS Advocate</h3>
 <br>
 
