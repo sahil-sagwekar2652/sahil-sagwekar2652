@@ -47,5 +47,12 @@
 <!-- <a href="" type="_blank"></a>
 <a href="" type="_blank"></a> -->
 
+<!-- <p float="left">
+<a href="" type="_blank"><img src="https://holopin.io/api/user/board?user=saladmama2652" width="75%" alt="Sahil's Holoping board"></a>
+<!-- [![@saladmama2652's Holopin board](https://holopin.io/api/user/board?user=saladmama2652)](https://holopin.io/@saladmama2652) -->
+<!-- <a href="https://app.daily.dev/sahilsagwekar" style="padding-left:20px"><img src="https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=jje" width="20%" alt="Sahil Sagwekar's Dev Card"/></a>
+</p> -->
 
-[![@saladmama2652's Holopin board](https://holopin.io/api/user/board?user=saladmama2652)](https://holopin.io/@saladmama2652)
+Holopin board             |  daily.dev card
+:-------------------------:|:-------------------------:
+![](https://holopin.io/api/user/board?user=saladmama2652)  |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=jje)
