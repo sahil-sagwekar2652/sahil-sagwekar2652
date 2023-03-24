@@ -55,4 +55,4 @@
 
 Holopin board             |  daily.dev card
 :-------------------------:|:-------------------------:
-![](https://holopin.io/api/user/board?user=saladmama2652)  |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=jje)
+![](https://holopin.io/api/user/board?user=saladmama2652)  |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=ibh)
