@@ -30,6 +30,7 @@
 
 ## My Latest Blog posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Essentials of Prompt Engineering: A Beginner&#39;s Guide](https://sagwekarsahil2652.hashnode.dev/understanding-the-essentials-of-prompt-engineering-a-beginners-guide)
 - [Create an HTTP server in Python](https://sagwekarsahil2652.hashnode.dev/create-an-http-server-in-python)
 - [Starting your coding journey might not be as hard as you think…](https://sagwekarsahil2652.hashnode.dev/coding-is-easy)
 - [KWoC 2022 report blog](https://sagwekarsahil2652.hashnode.dev/kwoc-2022-report-blog)
