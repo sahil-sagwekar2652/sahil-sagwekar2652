@@ -1,7 +1,7 @@
 <p align="center"><img align="center" width="50%" src="./intro.png"/></p>
 <hr>
 <!-- <h1 align="center">Hi There 👋, I'm Sahil</h1> -->
-<h3 align="center">Student, Developer, Open Source Enthusiast</h3>
+<h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
 
 - 🌱 I’m currently learning **Data Science** and **Web Dev**
