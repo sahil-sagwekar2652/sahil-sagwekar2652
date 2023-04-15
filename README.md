@@ -10,7 +10,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&left_color=blue&right_color=red)
 
 ## Languages and Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,fastapi,flask,git,github,idea,java,jquery,md,mysql,postgres,postman,vim&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,fastapi,flask,git,github,idea,java,jquery,nodejs,md,mysql,postgres,postman,vim&perline=11)](https://skillicons.dev)
 <!-- <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" />
