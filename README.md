@@ -46,14 +46,10 @@
 <a href="https://sagwekarsahil2652.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="https://twitter.com/sagwekar_sahil" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@SahilSagwekar" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<!-- <a href="" type="_blank"></a>
-<a href="" type="_blank"></a> -->
 
-<!-- <p float="left">
-<a href="" type="_blank"><img src="https://holopin.io/api/user/board?user=saladmama2652" width="75%" alt="Sahil's Holoping board"></a>
-<!-- [![@saladmama2652's Holopin board](https://holopin.io/api/user/board?user=saladmama2652)](https://holopin.io/@saladmama2652) -->
-<!-- <a href="https://app.daily.dev/sahilsagwekar" style="padding-left:20px"><img src="https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=jje" width="20%" alt="Sahil Sagwekar's Dev Card"/></a>
-</p> -->
+## Achievements 🏆
+[Kharagpur Winter of Code 2022 - Top contributor](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Student/sahil-sagwekar2652.pdf)  
+[Design Hacks by MLH - Category prize winner](https://devpost.com/software/nutrinav)
 
 Holopin board             |  daily.dev card
 :-------------------------:|:-------------------------:
