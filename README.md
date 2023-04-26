@@ -4,10 +4,14 @@
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&left_color=blue&right_color=red)
+
 - 🌱 I’m currently learning **Data Science** and **Web Dev**
 - ✉️ Let's talk, drop me a DM on Twitter!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&left_color=blue&right_color=red)
+## About me
+Exploring new technologies, working with new people is what I love.
+
 
 ## Languages and Tools 🧰
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,fastapi,flask,git,github,idea,java,jquery,nodejs,md,mysql,postgres,postman,vim&perline=11)](https://skillicons.dev)
