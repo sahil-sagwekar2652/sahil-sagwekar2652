@@ -41,7 +41,8 @@ Exploring new technologies, working with new people is what I love.
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-## YouTube 📹
+[![Flight Bot - Our project for Chat Hacks by MLH](https://ytcards.demolab.com/?id=ECNyq2C7MvE&title=Flight+Bot+-+Our+project+for+Chat+Hacks+by+MLH&lang=en&timestamp=1682862843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Flight Bot - Our project for Chat Hacks by MLH")](https://www.youtube.com/watch?v=ECNyq2C7MvE)
+[![NutriNav - Introduction and Walkthrough](https://ytcards.demolab.com/?id=nGDiP6eFsiM&title=NutriNav+-+Introduction+and+Walkthrough&lang=en&timestamp=1682247022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NutriNav - Introduction and Walkthrough")](https://www.youtube.com/watch?v=nGDiP6eFsiM)
 [![When your IDE keeps giving suggestions......](https://ytcards.demolab.com/?id=6lmaT9_k6qY&title=When+your+IDE+keeps+giving+suggestions......&lang=en&timestamp=1648913745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "When your IDE keeps giving suggestions......")](https://www.youtube.com/watch?v=6lmaT9_k6qY)
 <!-- END YOUTUBE-CARDS -->
 
