@@ -15,22 +15,7 @@ Exploring new technologies, working with new people is what I love.
 
 ## Languages and Tools 🧰
 [![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,fastapi,flask,git,github,idea,java,jquery,nodejs,md,mysql,postgres,postman,vim&perline=11)](https://skillicons.dev)
-<!-- <p align='left'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="40" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" width="40" />      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="40" />
-</p>                                             -->
-          
+        
 
 ## My Latest Blog posts 📜
 <!-- BLOG-POST-LIST:START -->
@@ -40,11 +25,18 @@ Exploring new technologies, working with new people is what I love.
 - [KWoC 2022 report blog](https://sagwekarsahil2652.hashnode.dev/kwoc-2022-report-blog)
 <!-- BLOG-POST-LIST:END -->
 
+## My Latest YouTube videos  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="3%">
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Flight Bot - Our project for Chat Hacks by MLH](https://ytcards.demolab.com/?id=ECNyq2C7MvE&title=Flight+Bot+-+Our+project+for+Chat+Hacks+by+MLH&lang=en&timestamp=1682862843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Flight Bot - Our project for Chat Hacks by MLH")](https://www.youtube.com/watch?v=ECNyq2C7MvE)
 [![NutriNav - Introduction and Walkthrough](https://ytcards.demolab.com/?id=nGDiP6eFsiM&title=NutriNav+-+Introduction+and+Walkthrough&lang=en&timestamp=1682247022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NutriNav - Introduction and Walkthrough")](https://www.youtube.com/watch?v=nGDiP6eFsiM)
 [![When your IDE keeps giving suggestions......](https://ytcards.demolab.com/?id=6lmaT9_k6qY&title=When+your+IDE+keeps+giving+suggestions......&lang=en&timestamp=1648913745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "When your IDE keeps giving suggestions......")](https://www.youtube.com/watch?v=6lmaT9_k6qY)
 <!-- END YOUTUBE-CARDS -->
+
+## Achievements 🏆
+[Kharagpur Winter of Code 2022 - Top contributor](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Student/sahil-sagwekar2652.pdf)  
+[Design Hacks by MLH - Category prize winner](https://devpost.com/software/nutrinav)  
+[Chat Hacks by MLH - Category prize winner](https://devpost.com/software/super-duper-chatbot)
 
 ## Socials 📱
 <a href="https://www.linkedin.com/in/sahil-sagwekar-0b955b223/" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -52,10 +44,6 @@ Exploring new technologies, working with new people is what I love.
 <a href="https://twitter.com/sagwekar_sahil" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@SahilSagwekar" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
-## Achievements 🏆
-[Kharagpur Winter of Code 2022 - Top contributor](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Student/sahil-sagwekar2652.pdf)  
-[Design Hacks by MLH - Category prize winner](https://devpost.com/software/nutrinav)
-[Chat Hacks by MLH - Category prize winner](https://devpost.com/software/super-duper-chatbot)
 
 Holopin board             |  daily.dev card
 :-------------------------:|:-------------------------:
