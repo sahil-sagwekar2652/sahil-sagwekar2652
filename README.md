@@ -1,10 +1,9 @@
-<p align="center"><img align="center" width="50%" src="./intro.png"/></p>
+<p align="center"><img alt="Twitter Banner" src="https://user-images.githubusercontent.com/89456541/235855643-056c17d8-6223-4720-b1a8-91fc0b8ba484.png" width="75%"></p>
 <hr>
-<!-- <h1 align="center">Hi There 👋, I'm Sahil</h1> -->
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&left_color=blue&right_color=red)
+![visitors](https://vbr.wocr.tk/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&style=flat-square)
 
 - 🌱 I’m currently learning **Data Science** and **Web Dev**
 - ✉️ Let's talk, drop me a DM on Twitter!
