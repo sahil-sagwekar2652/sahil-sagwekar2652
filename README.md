@@ -3,7 +3,7 @@
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
 
-![visitors](https://vbr.wocr.tk/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652&style=flat-square)
+![visitors](https://vbr.wocr.tk/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652)
 
 - 🌱 I’m currently learning **Data Science** and **Web Dev**
 - ✉️ Let's talk, drop me a DM on Twitter!
