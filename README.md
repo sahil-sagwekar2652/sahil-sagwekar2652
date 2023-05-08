@@ -3,9 +3,9 @@
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
 
-![visitors](https://vbr.wocr.tk/badge?page_id=sahil-sagwekar2652.sahil-sagwekar2652)
+![visitors](https://komarev.com/ghpvc/?username=sahil-sagwekar2652&color=green&plastic)
 
-- 🌱 I’m currently learning **Data Science** and **Web Dev**
+- 🌱 I’m currently learning **Web Dev** & **DevOps**
 - ✉️ Let's talk, drop me a DM on Twitter!
 
 ## About me
