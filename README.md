@@ -27,9 +27,9 @@ Exploring new technologies, working with new people is what I love.
 ## My Latest YouTube videos  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="3%">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![GitHub Automation Scripts - Project demo GSSoC 2023](https://ytcards.demolab.com/?id=Hy1Q9gyD2ug&title=GitHub+Automation+Scripts+-+Project+demo+GSSoC+2023&lang=en&timestamp=1683702624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "GitHub Automation Scripts - Project demo GSSoC 2023")](https://www.youtube.com/watch?v=Hy1Q9gyD2ug)
 [![Flight Bot - Our project for Chat Hacks by MLH (Winner - Best use of Google Cloud)](https://ytcards.demolab.com/?id=ECNyq2C7MvE&title=Flight+Bot+-+Our+project+for+Chat+Hacks+by+MLH+%28Winner+-+Best+use+of+Google+Cloud%29&lang=en&timestamp=1682862843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Flight Bot - Our project for Chat Hacks by MLH (Winner - Best use of Google Cloud)")](https://www.youtube.com/watch?v=ECNyq2C7MvE)
 [![NutriNav - Introduction and Walkthrough (Winner - Best Beginner hack)](https://ytcards.demolab.com/?id=nGDiP6eFsiM&title=NutriNav+-+Introduction+and+Walkthrough+%28Winner+-+Best+Beginner+hack%29&lang=en&timestamp=1682247022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "NutriNav - Introduction and Walkthrough (Winner - Best Beginner hack)")](https://www.youtube.com/watch?v=nGDiP6eFsiM)
-[![When your IDE keeps giving suggestions......](https://ytcards.demolab.com/?id=6lmaT9_k6qY&title=When+your+IDE+keeps+giving+suggestions......&lang=en&timestamp=1648913745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "When your IDE keeps giving suggestions......")](https://www.youtube.com/watch?v=6lmaT9_k6qY)
 <!-- END YOUTUBE-CARDS -->
 
 ## Achievements 🏆
