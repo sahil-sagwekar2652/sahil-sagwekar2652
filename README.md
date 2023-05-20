@@ -13,7 +13,7 @@ Exploring new technologies, working with new people is what I love.
 
 
 ## Languages and Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,git,java,nodejs,mysql,postgres,vim&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,git,java,nodejs,mysql,postgres,vim&perline=7)](https://skillicons.dev)
         
 
 ## My Latest Blog posts 📜
