@@ -13,7 +13,7 @@ Exploring new technologies, working with new people is what I love.
 
 
 ## Languages and Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,fastapi,flask,git,github,idea,java,jquery,nodejs,md,mysql,postgres,postman,vim&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,git,java,nodejs,mysql,postgres,vim&perline=11)](https://skillicons.dev)
         
 
 ## My Latest Blog posts 📜
@@ -37,6 +37,7 @@ Exploring new technologies, working with new people is what I love.
 - [Design Hacks by MLH - Best Beginner Hack](https://devpost.com/software/nutrinav)  
 - [Chat Hacks by MLH - Best use of Google Cloud](https://devpost.com/software/super-duper-chatbot)
 - [AI Hackfest by MLH - Best domain name from GoDaddy](https://devpost.com/software/knowledgenie)
+- [Project Admin GSSoC'23](https://github.com/sahil-sagwekar2652/GitHub-Automation-scripts)
 
 ## Socials 📱
 <a href="https://www.linkedin.com/in/sahil-sagwekar-0b955b223/" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
