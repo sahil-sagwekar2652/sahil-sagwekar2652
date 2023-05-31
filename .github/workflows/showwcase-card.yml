@@ -12,7 +12,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: sahil-sagwekar2652/github-readme-showwcase-cards@v1.2.0
+      - name: GitHub Readme Showwcase Cards
+        uses: sahil-sagwekar2652/github-readme-showwcase-cards@v1.2.0
         id: showwcase-cards
         with: 
           api_key: ${{ secrets.SHOWWCASE_API_KEY }}
