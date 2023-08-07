@@ -36,7 +36,6 @@ Exploring new technologies, working with new people is what I love.
 - [Kharagpur Winter of Code 2022 - Top contributor](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Student/sahil-sagwekar2652.pdf)  
 - [Design Hacks by MLH - Best Beginner Hack](https://devpost.com/software/nutrinav)  
 - [Chat Hacks by MLH - Best use of Google Cloud](https://devpost.com/software/super-duper-chatbot)
-- [AI Hackfest by MLH - Best domain name from GoDaddy](https://devpost.com/software/knowledgenie)
 - [Project Admin GSSoC'23](https://github.com/sahil-sagwekar2652/GitHub-Automation-scripts)
 
 ## Socials 📱
