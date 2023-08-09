@@ -32,7 +32,7 @@ Exploring new technologies, working with new people is what I love.
 [![GitHub Automation Scripts - Project demo GSSoC 2023](https://ytcards.demolab.com/?id=Hy1Q9gyD2ug&title=GitHub+Automation+Scripts+-+Project+demo+GSSoC+2023&lang=en&timestamp=1683702624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5 "GitHub Automation Scripts - Project demo GSSoC 2023")](https://www.youtube.com/watch?v=Hy1Q9gyD2ug)
 <!-- END YOUTUBE-CARDS -->
 
-## Achievements 🏆
+## 🏆
 - [Kharagpur Winter of Code 2022 - Top contributor](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Student/sahil-sagwekar2652.pdf)  
 - [Design Hacks by MLH - Best Beginner Hack](https://devpost.com/software/nutrinav)  
 - [Chat Hacks by MLH - Best use of Google Cloud](https://devpost.com/software/super-duper-chatbot)
