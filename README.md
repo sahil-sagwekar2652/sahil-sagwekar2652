@@ -21,7 +21,7 @@ Exploring new technologies, working with new people is what I love.
 - [Understanding the Essentials of Prompt Engineering: A Beginner&#39;s Guide](https://sagwekarsahil2652.hashnode.dev/understanding-the-essentials-of-prompt-engineering-a-beginners-guide)
 - [Create an HTTP server in Python](https://sagwekarsahil2652.hashnode.dev/create-an-http-server-in-python)
 - [Starting your coding journey might not be as hard as you think…](https://sagwekarsahil2652.hashnode.dev/coding-is-easy)
-- [KWoC 2022 report blog](https://sagwekarsahil2652.hashnode.dev/kwoc-2022-report-blog)
+- [My contributions @  KWoC 2022](https://sagwekarsahil2652.hashnode.dev/my-contributions-kwoc-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Latest YouTube videos  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="3%">
