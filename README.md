@@ -52,4 +52,4 @@ Exploring new technologies, working with new people is what I love.
 
 Holopin board             |  daily.dev card
 :-------------------------:|:-------------------------:
-![](https://holopin.io/api/user/board?user=saladmama2652) <a href="https://cloud.appwrite.io/card/644ff827c4865b06e503"><img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=644ff827c4865b06e503" alt="Appwrite Cloud Card" /></a>   |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=ibh)
+![](https://holopin.me/saladmama2652) <a href="https://cloud.appwrite.io/card/644ff827c4865b06e503"><img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=644ff827c4865b06e503" alt="Appwrite Cloud Card" /></a>   |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=ibh)
