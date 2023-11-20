@@ -1,7 +1,5 @@
 <p align="center"><img alt="Twitter Banner" src="https://user-images.githubusercontent.com/89456541/235855643-056c17d8-6223-4720-b1a8-91fc0b8ba484.png" width="75%"></p>
-<hr>
-<h1 align="center">Student, Developer, Open Source Enthusiast</h1>
-<br>
+
 
 ![visitors](https://komarev.com/ghpvc/?username=sahil-sagwekar2652&color=green&plastic)
 
@@ -13,7 +11,7 @@ Exploring new technologies, working with new people is what I love.
 
 
 ## Languages and Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=py,linux,html,css,js,bootstrap,django,docker,git,java,nodejs,mysql,postgres,vim&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,flask,django,docker,git,nodejs,postgres,vim)](https://skillicons.dev)
         
 
 ## My Latest Blog posts 📜
