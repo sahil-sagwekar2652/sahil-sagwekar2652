@@ -16,11 +16,11 @@ Exploring new technologies, working with new people is what I love.
 
 ## My Latest Blog posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [How to solve &quot;failed to mount: no such device&quot; error with the docker daemon](https://sagwekarsahil2652.hashnode.dev/how-to-solve-failed-to-mount-no-such-device-error-with-the-docker-daemon)
 - [Make your own static blog using Pelican](https://sagwekarsahil2652.hashnode.dev/make-your-own-static-blog-using-pelican)
 - [Practical Productivity Hacks](https://sagwekarsahil2652.hashnode.dev/practical-productivity-hacks)
 - [Understanding the Essentials of Prompt Engineering: A Beginner&#39;s Guide](https://sagwekarsahil2652.hashnode.dev/understanding-the-essentials-of-prompt-engineering-a-beginners-guide)
 - [Create an HTTP server in Python](https://sagwekarsahil2652.hashnode.dev/create-an-http-server-in-python)
-- [Starting your coding journey might not be as hard as you think…](https://sagwekarsahil2652.hashnode.dev/coding-is-easy)
 <!-- BLOG-POST-LIST:END -->
 
 ## [My Latest YouTube videos  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="3%">](https://www.youtube.com/@SahilSagwekar)
