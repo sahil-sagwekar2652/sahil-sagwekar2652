@@ -3,11 +3,10 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=sahil-sagwekar2652&color=green&plastic)
 
-- 🌱 I’m currently learning **Web Dev** & **DevOps**
 - ✉️ Let's talk, drop me a DM on Twitter!
 
 ## About me
-Exploring new technologies, working with new people is what I love.
+Exploring new technologies, and working with new people is what I love.
 
 
 ## Languages and Tools 🧰
@@ -42,12 +41,3 @@ Exploring new technologies, working with new people is what I love.
 <a href="https://sagwekarsahil2652.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="https://twitter.com/sagwekar_sahil" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@SahilSagwekar" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-
-<!-- BEGIN SHOWWCASE_PROFILE -->
-![sahil-sagwekar2652](https://github-readme-showwcase-cards.vercel.app/?name=Sahil+Sagwekar&username=sahil-sagwekar2652&headline=Student+%7C+Developer+%7C+Open+Source+Enthusiast+and+Technical+Writer.&avatar=https%3A%2F%2Fprofile-assets.showwcase.com%2F1680201821508.jpg&profile_url=sahil-sagwekar2652.showwcase.com&resume=https%3A%2F%2Fresume.showwcase.com%2Fsahil-sagwekar2652.pdf&theme=dark)
-<!-- END SHOWWCASE_PROFILE -->
-
-
-Holopin board             |  daily.dev card
-:-------------------------:|:-------------------------:
-![](https://holopin.me/saladmama2652) <a href="https://cloud.appwrite.io/card/644ff827c4865b06e503"><img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=644ff827c4865b06e503" alt="Appwrite Cloud Card" /></a>   |  ![](https://api.daily.dev/devcards/4877d808bba04a2096971a2fa9e34d28.png?r=ibh)
