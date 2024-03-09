@@ -11,7 +11,7 @@ Exploring new technologies, working with new people is what I love.
 
 
 ## Languages and Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=py,linux,flask,django,docker,git,nodejs,postgres,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,flask,django,docker,git,nodejs,postgres,vim,terraform,ubuntu,aws,obsidian)](https://skillicons.dev)
         
 
 ## My Latest Blog posts 📜
