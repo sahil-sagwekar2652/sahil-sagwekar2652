@@ -1,18 +1,5 @@
 <p align="center"><img alt="Twitter Banner" src="https://user-images.githubusercontent.com/89456541/235855643-056c17d8-6223-4720-b1a8-91fc0b8ba484.png" width="75%"></p>
 
-
-![visitors](https://komarev.com/ghpvc/?username=sahil-sagwekar2652&color=green&plastic)
-
-- ✉️ Let's talk, drop me a DM on Twitter!
-
-## About me
-Exploring new technologies, and working with new people is what I love.
-
-
-## Languages and Tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=py,linux,flask,django,docker,git,nodejs,postgres,vim,terraform,ubuntu,aws,obsidian)](https://skillicons.dev)
-        
-
 ## My Latest Blog posts 📜
 <!-- BLOG-POST-LIST:START -->
 - [How to deploy a Flask app to production](https://sagwekarsahil2652.hashnode.dev/how-to-deploy-a-flask-app-to-production)
